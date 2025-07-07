@@ -6,8 +6,8 @@ A responsive and modern multipage website built with **React Router** and **Tail
 
 ## 🚀 Live Demo
 
-👉 [View Live Project](https://mywebsite-react-typescript-tailwindcs.netlify.app/)  
-*(Replace with your actual Netlify/Vercel/Render link)*
+👉 [ To View Live Project Click here](https://mywebsite-react-typescript-tailwindcs.netlify.app/)  
+
 
 ---
 
@@ -21,24 +21,40 @@ A responsive and modern multipage website built with **React Router** and **Tail
 
 my-website/
 │
+
 ├── public/
+
 │ └── index.html
+
 │
 ├── src/
+
 │ ├── components/
+
 │ │ ├── Home.js
+
 │ │ ├── About.js
+
 │ │ ├── Contact.js
+
 │ │ ├── Testimonials.js
+
 │ │ └── Footer.js
+
 │ ├── App.js
+
 │ ├── App.css
+
 │ └── index.js
-│
+
 ├── tailwind.config.js
+
 ├── postcss.config.js
+
 ├── package.json
+
 └── README.md
+
 
 yaml
 Copy
