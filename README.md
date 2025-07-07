@@ -55,11 +55,6 @@ my-website/
 
 └── README.md
 
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🛠️ Built With
