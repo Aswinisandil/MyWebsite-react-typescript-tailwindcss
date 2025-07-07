@@ -80,8 +80,8 @@ my-website/
 ---
 
 ## 🧪 How to Run Locally
-
 ```bash
+
 # Clone the repo
 git clone https://github.com/your-username/my-website.git
 
@@ -107,8 +107,13 @@ Add project showcase or pricing sections
 🧑‍💻 Author
 Aswini Medisetti
 Frontend Developer | DevOps Learner
-Portfolio • LinkedIn • GitHub
+```
+[Portfolio](https://drive.google.com/file/d/171q5jZHKGEnGtuxk4B6fRFzBooHmGoIY/view?usp=sharing)  [LinkedIn](https://www.linkedin.com/in/aswini-sandil-medisetti-528a4ab8/)  [GitHub](https://github.com/Aswinisandil)
+
+```
 
 📜 License
 This project is open source and available under the MIT License.
+
+
 
